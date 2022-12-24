@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
-#include"prototype.h"
+#include"header.h"
 
 extern coordinator *c_root ;
 question_ans question_extraction_from_file(char * , question_ans);
