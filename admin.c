@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#include"prototype.h"
+#include"header.h"
 coordinator *c_root = NULL ;
 extern contestant *co_root ;
 
