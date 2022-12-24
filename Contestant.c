@@ -1,7 +1,7 @@
 #include<stdio.h> 
 #include<stdlib.h>
 #include<string.h>
-#include"prototype.h"
+#include"header.h"
 
 extern question_ans *QA_root[2] ;
 contestant *co_root = NULL;
